@@ -1,4 +1,5 @@
 ipykernel
+python-aiml
 numpy
 pandas
 matplotlib
