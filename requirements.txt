@@ -1,4 +1,5 @@
 ipykernel
+mysql-connector-python
 python-aiml
 numpy
 pandas
