@@ -1,8 +1,0 @@
-ipykernel
-mysql-connector-python
-python-aiml
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
